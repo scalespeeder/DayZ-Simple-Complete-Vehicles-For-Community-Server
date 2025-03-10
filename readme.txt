@@ -6,6 +6,8 @@ Created by @scalespeeder. Please report bugs & errors to scalespeeder@gmail.com 
 
 Simple replacement code that makes vehicles spawn in complete with a can of fuel in the storage.
 
+Players will still need to find water for the radiator if required.
+
 TERMS OF USE
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
