@@ -1,4 +1,4 @@
-DayZ Community Server Simple Complete Vehicles XML Coe Snippet Mod Changelog & Terms Of Use
+DayZ Community Server Simple Complete Vehicles XML Code Snippet Mod Changelog & Terms Of Use
 
 Limited Testing on PC Chernarus Local Server DAYZ Version 1.27 Mar 2025.
 
